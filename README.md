@@ -35,7 +35,8 @@ This is a simple e-commerce application for managing a book store built using th
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone <(https://github.com/21mebrat/mern-book-store)>
+   
 Install dependencies:
 
 Bash
