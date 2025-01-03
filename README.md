@@ -35,17 +35,17 @@ This is a simple e-commerce application for managing a book store built using th
 
 1. **Clone the repository:**
    ```bash
-   git clone <(https://github.com/21mebrat/mern-book-store)>
+   git clone https://github.com/21mebrat/mern-book-store
    
 Install dependencies:
 
-Bash
-
 cd mern-book-store
-npm install
-Start the development server:
+   ```bash
+  npm install
+2. **Start the development server::**
 
-Bash
+
+
 
 npm start
 
